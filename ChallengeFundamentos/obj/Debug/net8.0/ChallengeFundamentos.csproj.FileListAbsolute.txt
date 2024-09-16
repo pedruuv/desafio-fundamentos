@@ -1,0 +1,14 @@
+C:\Users\pedru\source\repos\ChallengeFundamentos\ChallengeFundamentos\bin\Debug\net8.0\ChallengeFundamentos.exe
+C:\Users\pedru\source\repos\ChallengeFundamentos\ChallengeFundamentos\bin\Debug\net8.0\ChallengeFundamentos.deps.json
+C:\Users\pedru\source\repos\ChallengeFundamentos\ChallengeFundamentos\bin\Debug\net8.0\ChallengeFundamentos.runtimeconfig.json
+C:\Users\pedru\source\repos\ChallengeFundamentos\ChallengeFundamentos\bin\Debug\net8.0\ChallengeFundamentos.dll
+C:\Users\pedru\source\repos\ChallengeFundamentos\ChallengeFundamentos\bin\Debug\net8.0\ChallengeFundamentos.pdb
+C:\Users\pedru\source\repos\ChallengeFundamentos\ChallengeFundamentos\obj\Debug\net8.0\ChallengeFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedru\source\repos\ChallengeFundamentos\ChallengeFundamentos\obj\Debug\net8.0\ChallengeFundamentos.AssemblyInfoInputs.cache
+C:\Users\pedru\source\repos\ChallengeFundamentos\ChallengeFundamentos\obj\Debug\net8.0\ChallengeFundamentos.AssemblyInfo.cs
+C:\Users\pedru\source\repos\ChallengeFundamentos\ChallengeFundamentos\obj\Debug\net8.0\ChallengeFundamentos.csproj.CoreCompileInputs.cache
+C:\Users\pedru\source\repos\ChallengeFundamentos\ChallengeFundamentos\obj\Debug\net8.0\ChallengeFundamentos.dll
+C:\Users\pedru\source\repos\ChallengeFundamentos\ChallengeFundamentos\obj\Debug\net8.0\refint\ChallengeFundamentos.dll
+C:\Users\pedru\source\repos\ChallengeFundamentos\ChallengeFundamentos\obj\Debug\net8.0\ChallengeFundamentos.pdb
+C:\Users\pedru\source\repos\ChallengeFundamentos\ChallengeFundamentos\obj\Debug\net8.0\ChallengeFundamentos.genruntimeconfig.cache
+C:\Users\pedru\source\repos\ChallengeFundamentos\ChallengeFundamentos\obj\Debug\net8.0\ref\ChallengeFundamentos.dll

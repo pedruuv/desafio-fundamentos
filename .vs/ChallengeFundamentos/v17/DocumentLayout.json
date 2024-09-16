@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pedru\\source\\repos\\ChallengeFundamentos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B40832-D97B-4933-B18F-972B22D793B2}|ChallengeFundamentos\\ChallengeFundamentos.csproj|c:\\users\\pedru\\source\\repos\\challengefundamentos\\challengefundamentos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B40832-D97B-4933-B18F-972B22D793B2}|ChallengeFundamentos\\ChallengeFundamentos.csproj|solutionrelative:challengefundamentos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B40832-D97B-4933-B18F-972B22D793B2}|ChallengeFundamentos\\ChallengeFundamentos.csproj|c:\\users\\pedru\\source\\repos\\challengefundamentos\\challengefundamentos\\models\\parking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5B40832-D97B-4933-B18F-972B22D793B2}|ChallengeFundamentos\\ChallengeFundamentos.csproj|solutionrelative:challengefundamentos\\models\\parking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Parking.cs",
+              "DocumentMoniker": "C:\\Users\\pedru\\source\\repos\\ChallengeFundamentos\\ChallengeFundamentos\\Models\\Parking.cs",
+              "RelativeDocumentMoniker": "ChallengeFundamentos\\Models\\Parking.cs",
+              "ToolTip": "C:\\Users\\pedru\\source\\repos\\ChallengeFundamentos\\ChallengeFundamentos\\Models\\Parking.cs",
+              "RelativeToolTip": "ChallengeFundamentos\\Models\\Parking.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwDQAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T16:21:29.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pedru\\source\\repos\\ChallengeFundamentos\\ChallengeFundamentos\\Program.cs",
+              "RelativeDocumentMoniker": "ChallengeFundamentos\\Program.cs",
+              "ToolTip": "C:\\Users\\pedru\\source\\repos\\ChallengeFundamentos\\ChallengeFundamentos\\Program.cs",
+              "RelativeToolTip": "ChallengeFundamentos\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAADwvyQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T16:17:42.207Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
